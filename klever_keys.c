@@ -2,8 +2,6 @@
 // Created by ryanfitzgerald on 5/3/22.
 //
 
-#include <strings.h>
-#include <printf.h>
 #include <stdlib.h>
 
 void get_key_c(const char*, char*);
