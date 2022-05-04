@@ -1,4 +1,4 @@
-# klever_keys_c
+# klever_keys_c (c implementation with c++)
 
 The purpose for this library is to have secure system keys and initialization vectors for various encryption methods (ex: AES).
 
