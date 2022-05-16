@@ -2,6 +2,7 @@
 // Created by ryanfitzgerald on 5/3/22.
 //
 
+#include "klever_keys.h"
 #include <stdlib.h>
 
 void get_key_c(const char*, char*);
